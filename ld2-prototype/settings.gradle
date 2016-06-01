@@ -1,0 +1,11 @@
+include 'livingdoc2-html',
+        'livingdoc2-input-shared',
+        'livingdoc2-inputcore',
+        'livingdoc2-execution-shared',
+        'livingdoc2-html:livingdoc2-html-parser',
+        'livingdoc2-html:livingdoc2-html-reporter',
+        'livingdoc2-core',
+        'livingdoc2-cli',
+        'livingdoc2-execution',
+        'livingdoc2-shared'
+

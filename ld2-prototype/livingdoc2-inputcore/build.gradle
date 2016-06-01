@@ -1,0 +1,6 @@
+dependencies {
+    compile project(':livingdoc2-html:livingdoc2-html-parser')
+    compile project(':livingdoc2-html:livingdoc2-html-reporter')
+    compile project(':livingdoc2-input-shared')
+    compile project(':livingdoc2-core')
+}

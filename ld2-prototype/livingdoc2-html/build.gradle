@@ -1,0 +1,7 @@
+allprojects {
+    dependencies {
+        compile project(':livingdoc2-input-shared')
+        compile 'org.jsoup:jsoup:1.8.3'
+    }
+
+}
