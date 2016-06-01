@@ -1,1 +1,2 @@
-# sp-uni-tuebingen
+# TSP 2016 - LivingDoc2 Prototype
+
